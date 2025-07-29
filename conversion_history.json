@@ -1,0 +1,51 @@
+[
+    {
+        "datetime": "2025-07-13 10:45:23",
+        "from": "LKR",
+        "to": "LKR",
+        "amount": 7000.0,
+        "converted": 7000.0
+    },
+    {
+        "datetime": "2025-07-13 10:47:27",
+        "from": "LKR",
+        "to": "USD",
+        "amount": 75000.0,
+        "converted": 249.45
+    },
+    {
+        "datetime": "2025-07-17 07:27:43",
+        "from": "LKR",
+        "to": "USD",
+        "amount": 85.0,
+        "converted": 0.282
+    },
+    {
+        "datetime": "2025-07-17 07:57:24",
+        "from": "LKR",
+        "to": "USD",
+        "amount": 87.0,
+        "converted": 0.289
+    },
+    {
+        "datetime": "2025-07-21 13:40:11",
+        "from": "LKR",
+        "to": "USD",
+        "amount": 850000.0,
+        "converted": 2821.15
+    },
+    {
+        "datetime": "2025-07-29 12:43:43",
+        "from": "LKR",
+        "to": "USD",
+        "amount": 100000.0,
+        "converted": 331.3
+    },
+    {
+        "datetime": "2025-07-29 12:45:11",
+        "from": "LKR",
+        "to": "INR",
+        "amount": 5000.0,
+        "converted": 1434.5
+    }
+]
